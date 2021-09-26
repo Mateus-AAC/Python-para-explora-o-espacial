@@ -1,4 +1,4 @@
-# Python-para-explora-o-espacial
+# Curso De Python-para-explora-o-espacial
 
 <img src="https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png" alt="exemplo imagem">
 
